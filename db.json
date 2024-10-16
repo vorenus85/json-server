@@ -1,5 +1,5 @@
 {
-  "products": [
+    "products": [
     {
       "id": 1,
       "title": "Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)",
@@ -46,8 +46,8 @@
       "id": 7,
       "title": "Galaxy Buds FE Graphite",
       "price": 99.99,
-      "image": "bgalaxy_buds_fe_graphite_640x640.png",
-      "image_thumb": "bgalaxy_buds_fe_graphite_640x640.png"
+      "image": "galaxy_buds_fe_graphite_640x640.png",
+      "image_thumb": "galaxy_buds_fe_graphite_640x640.png"
     },
     {
       "id": 8,
